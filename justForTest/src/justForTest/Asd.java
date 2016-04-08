@@ -1,5 +1,8 @@
 package justForTest;
 
 public class Asd {
-  s
+  String aos = "lsaf";
 }
+ssssss
+
+assddd
